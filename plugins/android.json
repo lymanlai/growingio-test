@@ -11,7 +11,7 @@
             "PACKAGE_NAME": "com.example.hello"
         },
         "growingio-plugin": {
-            "GROWINGIO_SCHEME": "xxx",
+            "GROWINGIO_SCHEME": "growing.3ebda0e45cdec63d",
             "PACKAGE_NAME": "com.example.hello"
         }
     },
