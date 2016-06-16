@@ -1,0 +1,12 @@
+cdvPluginPostBuildExtras.add({
+    repositories {
+    	  mavenLocal()
+        maven {
+            url  "https://jcenter.bintray.com" 
+        }
+    }
+    dependencies {
+        compile 'com.growingio.android:vds-android:latest.release@aar'
+    }
+
+})

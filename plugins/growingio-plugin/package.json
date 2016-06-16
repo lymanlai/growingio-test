@@ -1,0 +1,17 @@
+{
+  "name": "growingio-plugin",
+  "version": "0.1.5",
+  "description": "GrowingIO SDK plugin for Cordova",
+  "cordova": {
+    "id": "growingio-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "GrowingIO",
+  "license": "ISC"
+}
